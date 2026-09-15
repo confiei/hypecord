@@ -2,7 +2,7 @@
     "name": "hypecord",
     "private": "true",
     "version": "1.14.15",
-    "description": "The cutest Discord client mod",
+    "description": "Custom Discord client fork based on Endcord",
     "homepage": "https://github.com/confiei/hypecord#readme",
     "bugs": {
         "url": "https://github.com/confiei/hypecord/issues"
