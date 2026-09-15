@@ -1,15 +1,15 @@
 {
-    "name": "endcord",
+    "name": "hypecord",
     "private": "true",
     "version": "1.14.15",
     "description": "The cutest Discord client mod",
-    "homepage": "https://github.com/rootpoii/endcord#readme",
+    "homepage": "https://github.com/confiei/hypecord#readme",
     "bugs": {
-        "url": "https://github.com/rootpoii/endcord/issues"
+        "url": "https://github.com/confiei/hypecord/issues"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/rootpoii/endcord.git"
+        "url": "git+https://github.com/confiei/hypecord.git"
     },
     "license": "GPL-3.0-or-later",
     "author": "Vendicated",
@@ -24,7 +24,7 @@
         "dev": "pnpm watch",
         "watchWeb": "pnpm buildWeb --watch",
         "generatePluginJson": "tsx scripts/generatePluginList.ts",
-        "generateTypes": "tspc --emitDeclarationOnly --declaration --outDir packages/endcord-types --allowJs false",
+        "generateTypes": "tspc --emitDeclarationOnly --declaration --outDir packages/hypecord-types --allowJs false",
         "inject": "node scripts/runInstaller.mjs -- --install",
         "uninject": "node scripts/runInstaller.mjs -- --uninstall",
         "lint": "eslint",
