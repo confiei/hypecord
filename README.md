@@ -1,79 +1,68 @@
 <div align="center">
 
-# EndCord
+# Hypecord
 
-**A modern, lightweight, and customizable Discord client.**
+**Um cliente Discord moderno, leve e altamente customizável.**
 
-Enhance your Discord experience with powerful plugins, themes, and privacy-focused features.
-
-[Website](https://endcord.com/) •
-[Download](https://endcord.com/) •
-[Discord Server](https://discord.gg/VC6zmXzq34)
+Melhore sua experiência no Discord com plugins poderosos, temas e recursos focados em privacidade.
 
 </div>
 
 ---
 
-## ✨ Features
+## ✨ Recursos
 
-* 🚀 Easy installation
-* 🧩 **200+ built-in plugins**
-* ⚡ Lightweight and optimized
-* 🌐 Browser support via Extension or UserScript
-* 💻 Supports every Discord branch
-
+* 🚀 Instalação fácil
+* 🧩 **Mais de 200 plugins integrados**
+* ⚡ Leve e otimizado
+* 🌐 Suporte para navegador via Extensão ou UserScript
+* 💻 Suporta todas as versões do Discord
   * Stable
   * Canary
   * PTB
-* 🎨 Built-in CSS editor
-* 🎭 Compatible with BetterDiscord themes
-* 🔒 Privacy-first
-
-  * Blocks Discord analytics
-  * Disables crash reporting
-  * No telemetry
-* 🔄 Optional settings synchronization
-* 🔧 Actively maintained with frequent updates
-
----
-
-## 📦 Installation
-
-1. Visit **https://endcord.com/**
-2. Download the installer for your platform.
-3. Run the installer.
-4. Launch Discord and enjoy EndCord.
+* 🎨 Editor de CSS integrado
+* 🎭 Compatível com temas do BetterDiscord
+* 🔒 Focado em privacidade
+  * Bloqueia análises do Discord
+  * Desativa relatórios de falhas
+  * Sem telemetria
+* 🔄 Sincronização opcional de configurações
+* 🔧 Ativamente mantido com atualizações frequentes
 
 ---
 
-## 🗑️ Uninstall
+## 📦 Instalação
 
-Open the installer again or follow the uninstall instructions available on the website.
-
----
-
-## 💬 Community
-
-Need help or want to report a bug?
-
-Join our Discord server:
-
-**https://discord.gg/VC6zmXzq34**
+1. Baixe o instalador para a sua plataforma.
+2. Execute o instalador.
+3. Inicie o Discord e aproveite o Hypecord.
 
 ---
 
-## ❤️ Why EndCord?
+## 🗑️ Desinstalação
 
-* Huge plugin ecosystem
-* Lightweight performance
-* Modern interface
-* Extensive customization
-* Browser support
-* Privacy-focused
-* Open community
+Abra o instalador novamente para realizar a remoção ou siga os passos padrão do seu sistema operacional.
 
 ---
 
-## License
+## 💬 Comunidade
 
-See the LICENSE file for more information.
+Precisa de ajuda ou quer relatar um bug? Abra uma issue diretamente no repositório do projeto.
+
+---
+
+## ❤️ Por que o Hypecord?
+
+* Enorme ecossistema de plugins
+* Desempenho leve
+* Interface moderna
+* Customização extensiva
+* Suporte a navegadores
+* Focado em privacidade
+* Comunidade aberta
+
+---
+
+## Licença
+
+Consulte o arquivo LICENSE para mais informações.
